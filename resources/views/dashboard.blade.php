@@ -349,8 +349,8 @@
                                                 <td><span class="dot-green"></span></td>
                                                 <td>Fast</td>
                                                 <td style="text-align: left;">SKU-ABCDE123456</td>
-                                                <td style="text-align: left;">Oli</td>
-                                                <td style="text-align: left;">Shell Helix</td>
+                                                <td style="text-align: left;">Ban</td>
+                                                <td style="text-align: left;">Ban Achilles</td>
                                                 <td>10</td>
                                                 <td>10</td>
                                                 <td>10</td>
@@ -377,8 +377,8 @@
                                                 <td><span class="dot-red"></span></td>
                                                 <td>Slow</td>
                                                 <td style="text-align: left;">SKU-ABCDE123456</td>
-                                                <td style="text-align: left;">Oli</td>
-                                                <td style="text-align: left;">Shell Helix</td>
+                                                <td style="text-align: left;">Ban</td>
+                                                <td style="text-align: left;">Ban Achilles</td>
                                                 <td>10</td>
                                                 <td>10</td>
                                                 <td>10</td>
@@ -418,9 +418,8 @@
                 </div>
             </div>
             <!-- END MAIN CONTENT-->
-            <!-- END PAGE CONTAINER-->
         </div>
-
+        <!-- END PAGE CONTAINER-->
     </div>
 
     <!-- Jquery JS-->
@@ -433,15 +432,6 @@
             /* jQueryKnob */
 
             $(".knob").knob({
-                /*change : function (value) {
-                //console.log("change : " + value);
-                },
-                release : function (value) {
-                console.log("release : " + value);
-                },
-                cancel : function () {
-                console.log("cancel : " + this.value);
-                },*/
                 draw: function () {
 
                 }
